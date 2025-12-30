@@ -96,7 +96,7 @@ h1, h2, h3 {
     display: flex;
     align-items: center;
     position: relative;
-    background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-light) 100%);
+    background: #000;
     overflow: hidden;
 }
 
@@ -303,7 +303,7 @@ h1, h2, h3 {
 
 /* ===== FOOTER ===== */
 .footer {
-    background-color: var(--color-accent);
+    background-color: #000;
     color: var(--color-light);
     padding: var(--spacing-lg) 0;
 }
